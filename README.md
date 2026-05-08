@@ -1,5 +1,5 @@
 ## DOCKER INSTALLATION ##
-1. Install Docker and Docker compose
+**1. Install Docker and Docker compose**
 ```
 # update system
 sudo apt-get update 
@@ -26,7 +26,7 @@ sudo service docker start
 
 docker --version
 ```
-2. Run docker without sudo
+**2. Run docker without sudo**
 ``````
 sudo groupadd docker 
 
